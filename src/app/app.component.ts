@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'three-js';
+  constructor() {
+
+  }
+
+  public current = 1;
+  public examples = [1, 2]
 }

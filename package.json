@@ -20,6 +20,9 @@
     "@angular/platform-browser-dynamic": "~10.2.0",
     "@angular/router": "~10.2.0",
     "rxjs": "~6.6.0",
+    "three": "^0.123.0",
+    "three-gltf-loader": "^1.111.0",
+    "three-orbitcontrols-ts": "^0.1.2",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"
   },
